@@ -31,17 +31,12 @@
 - **Tools & Platforms**: Power BI, Apache Superset, VS Code, Git
 
 ### Professional
-- Organized  
-- Punctual  
-- Active Learner  
+- Organized - Punctual - Active Learner  
 
 ---
 
 ## 🎯 Interests
-- ♟️ Chess  
-- 🤸 Calisthenics  
-- 🎧 Listening to Music  
-- 🌍 Travel  
+♟️ Chess 🤸 Calisthenics 🎧 Listening to Music 🌍 Travel  
 
 ---
 
